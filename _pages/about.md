@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-------
 Hi! I am a fifth-year Ph.D. student at the Computer Science Department at University of Maryland College Park, advised 
 by [Prof. Heng Huang](https://www.cs.umd.edu/~heng/). Previously, I was a Ph.D. student at ECE Department at University
 of Pittsburgh before our group moving to UMD.
@@ -43,7 +41,10 @@ I got my Bachelor of Science (B.Sc) from University of Tehran, working with [Dr.
 
 News
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- **[Nov. 2023]** Our paper, “Compressing Image-to-Image Translation GANs Using Local Density Structures on Their Learned Manifold” got accepted to [AAAI 2024](https://aaai.org/aaai-conference/).
+- **[May. 2023]** I started my internship as a research scientist intern at [Adobe Research](https://research.adobe.com/).
+- **[Nov. 2022]** Our paper, “EffConv: Efficient Learning of Kernel Sizes for Convolution Layers of CNNs” got accepted to [AAAI 2023](https://aaai-23.aaai.org/)
+- **[Jun. 2022]** Our paper “Interpretations Steered Network Pruning via Amortized Inferred Saliency Maps” got accepted to ECCV 2022.
 
 Create content & metadata
 ------
