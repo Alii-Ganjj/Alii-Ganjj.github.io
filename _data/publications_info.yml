@@ -1,0 +1,40 @@
+main:
+
+  - title: Compressing Image-to-Image Translation GANs Using Local Density Structures on Their Learned Manifold
+    authors: <strong>Alireza Ganjdanesh</strong>, Shangqian Gao, Hirad Alipanah, Heng Huang
+    conference: The Thirty-Eighth AAAI Conference on Artificial Intelligence, <strong>AAAI 2024</strong>.
+    bibtex: https://drive.google.com/file/d/1wHLdqP1d_qUnurOa47SS80DDNbGfgi7X/view?usp=sharing
+
+  - title: EffConv Efficient Learning of Kernel Sizes for Convolution Layers of CNNs
+    authors: <strong>Alireza Ganjdanesh</strong>, Shangqian Gao, Heng Huang
+    conference: The Thirty-Seventh AAAI Conference on Artificial Intelligence, <strong>AAAI 2023</strong>.
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/25923/25695
+    code: https://github.com/Alii-Ganjj/EffConv
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:wGG65B3sJBQJ:scholar.google.com/&output=citation&scisdr=ClH5xZ29EPPV99bZzTs:AFWwaeYAAAAAZX3f1TurxL1ySNyYQKBaWHcmm4o&scisig=AFWwaeYAAAAAZX3f1XpPkJiNXD55hYaAjiqQitM&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+
+  - title: Interpretations Steered Network Pruning via Amortized Inferred Saliency Maps
+    authors: <strong>Alireza Ganjdanesh</strong>, Shangqian Gao, Heng Huang
+    conference: European Conference on Computer Vision <strong>ECCV 2022</strong>.
+    pdf: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136810274.pdf
+    code: https://github.com/Alii-Ganjj/InterpretationsSteeredPruning
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Jq9AhMP9G-IJ:scholar.google.com/&output=citation&scisdr=ClH5xZ29EPPV99bZve4:AFWwaeYAAAAAZX3fpe4taDW7NB_z66N4212KDA8&scisig=AFWwaeYAAAAAZX3fpQk3loRCf3MmnQYgLliJx4g&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+
+  - title: Multi-modal Genotype and Phenotype Mutual Learning to Enhance Single-Modal Input Based Longitudinal Outcome Prediction
+    authors: <strong>Alireza Ganjdanesh</strong>, Jipeng Zhang, Wei Chen, Heng Huang
+    conference: International Conference on Research in Computational Molecular Biology <strong>RECOMB 2022</strong>.
+    pdf: ./files/recomb2022.pdf
+    code: https://github.com/Alii-Ganjj/GenoPhenoMutualLearning
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:-FCc6y_7NmMJ:scholar.google.com/&output=citation&scisdr=ClH5xZ29EPPV99b2nAU:AFWwaeYAAAAAZX3whAXojzr9meIzTJ8zdJo-XKo&scisig=AFWwaeYAAAAAZX3whHv7Troc8A2gVUSeZnAutg8&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+  
+  - title: LONGL-Net temporal correlation structure guided deep learning model to predict longitudinal age-related macular degeneration severity
+    authors: <strong>Alireza Ganjdanesh</strong>, Jipeng Zhang, Emily Y. Chew, Ying Ding, Heng Huang, Wei Chen
+    conference: Proceedings of the National Academy of Sciences, <strong>PNAS Nexus 2022</strong>.
+    pdf: https://academic.oup.com/pnasnexus/article-pdf/1/1/pgab003/47087227/pgab003.pdf
+    code: https://github.com/Alii-Ganjj/LongitudinalAMDNet
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:01LPmjIc3oIJ:scholar.google.com/&output=citation&scisdr=ClH5xZ29EPPV99b3KbY:AFWwaeYAAAAAZX3xMbbW-bj3zFuhULEXViGoNug&scisig=AFWwaeYAAAAAZX3xMaPpTQG3qyprMYQ5SfUkcag&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+
+  - title: Predicting potential propensity of adolescents to drugs via new semi-supervised deep ordinal regression model
+    authors: <strong>Alireza Ganjdanesh</strong>, Kamran Ghasedi, Liang Zhan, Weidong Cai, Heng Huang
+    conference: International Conference on Medical Image Computing and Computer Assisted Intervention, <strong>MICCAI 2020</strong>.
+    pdf: https://par.nsf.gov/servlets/purl/10189862
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:-Fml9tGlfOIJ:scholar.google.com/&output=citation&scisdr=ClH5xZ29EPPV99b0pbA:AFWwaeYAAAAAZX3yvbA8zPh1wxAJGaQVv6y_K7s&scisig=AFWwaeYAAAAAZX3yvV69yQ7R2grELeImPl6nRAM&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
