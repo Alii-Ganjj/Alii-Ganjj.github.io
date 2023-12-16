@@ -2,7 +2,7 @@ main:
 
   - title: Compressing Image-to-Image Translation GANs Using Local Density Structures on Their Learned Manifold
     authors: <strong>Alireza Ganjdanesh</strong>, Shangqian Gao, Hirad Alipanah, Heng Huang
-    conference: The Thirty-Eighth AAAI Conference on Artificial Intelligence, <strong>AAAI 2024</strong>.
+    conference: To Appear in The Thirty-Eighth AAAI Conference on Artificial Intelligence, <strong>AAAI 2024</strong>.
     bibtex: https://drive.google.com/file/d/1wHLdqP1d_qUnurOa47SS80DDNbGfgi7X/view?usp=sharing
 
   - title: EffConv Efficient Learning of Kernel Sizes for Convolution Layers of CNNs
@@ -22,7 +22,7 @@ main:
   - title: Multi-modal Genotype and Phenotype Mutual Learning to Enhance Single-Modal Input Based Longitudinal Outcome Prediction
     authors: <strong>Alireza Ganjdanesh</strong>, Jipeng Zhang, Wei Chen, Heng Huang
     conference: International Conference on Research in Computational Molecular Biology <strong>RECOMB 2022</strong>.
-    pdf: ./files/recomb2022.pdf
+    pdf: ../files/recomb2022.pdf
     code: https://github.com/Alii-Ganjj/GenoPhenoMutualLearning
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:-FCc6y_7NmMJ:scholar.google.com/&output=citation&scisdr=ClH5xZ29EPPV99b2nAU:AFWwaeYAAAAAZX3whAXojzr9meIzTJ8zdJo-XKo&scisig=AFWwaeYAAAAAZX3whHv7Troc8A2gVUSeZnAutg8&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
   

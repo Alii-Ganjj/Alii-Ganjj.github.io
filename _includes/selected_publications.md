@@ -1,6 +1,6 @@
 <h1 id="publications"></h1>
 
-<h2 style="margin: 60px 0px -15px;">Selected Publications</h2>
+<h2 style="margin: 50px 0px -15px;">Selected Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -8,15 +8,7 @@
 {% for link in site.data.selected_publications_info.main %}
 
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 0px;padding-left: 0px;">
-    <div class="col-sm-3 abbr" style="position: relative;padding-right: 0px;padding-left: 0px;">
-    {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width:150px; height:100px">
-    {% endif %}
-    {% if link.conference_short %} 
-    <abbr class="badge">{{ link.conference_short }}</abbr>
-    {% endif %}
-  </div>
+  
   <div class="col-sm-9" style="position: relative;padding-right: -20px;padding-left: -5px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
@@ -49,4 +41,5 @@
 
 {% endfor %}
 
+</ol>
 </div>
