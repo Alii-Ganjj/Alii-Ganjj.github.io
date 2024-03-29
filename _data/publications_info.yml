@@ -1,8 +1,15 @@
 main:
 
+  - title: Jointly Training and Pruning CNNs via Learnable Agent Guidance and Alignment
+    authors: <strong>Alireza Ganjdanesh</strong>, Shangqian Gao, Heng Huang
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>CVPR 2024</strong>.
+    pdf: https://arxiv.org/abs/2403.19490
+    bibtex: https://www.semanticscholar.org/paper/Jointly-Training-and-Pruning-CNNs-via-Learnable-and-Ganjdanesh-Gao/09cf2353021f7275959f27d9d57db16cc84aabbe
+
   - title: Compressing Image-to-Image Translation GANs Using Local Density Structures on Their Learned Manifold
     authors: <strong>Alireza Ganjdanesh</strong>, Shangqian Gao, Hirad Alipanah, Heng Huang
     conference: To Appear in The Thirty-Eighth AAAI Conference on Artificial Intelligence, <strong>AAAI 2024</strong>.
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/29100
     bibtex: https://drive.google.com/file/d/1wHLdqP1d_qUnurOa47SS80DDNbGfgi7X/view?usp=sharing
 
   - title: EffConv Efficient Learning of Kernel Sizes for Convolution Layers of CNNs

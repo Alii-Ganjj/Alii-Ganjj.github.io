@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a fifth-year Ph.D. student at the Computer Science Department at University of Maryland College Park, advised 
+Hi! I am a Ph.D. Candidate at the Computer Science Department at University of Maryland College Park, advised 
 by [Prof. Heng Huang](https://www.cs.umd.edu/~heng/). Previously, I was a Ph.D. student at ECE Department at University
 of Pittsburgh before our group moving to UMD.
 
@@ -25,6 +25,7 @@ I got my Bachelor of Science (B.Sc) from University of Tehran, working with [Dr.
 
 News
 ------
+- **[Feb. 2024]** Our paper, “Jointly Training and Pruning CNNs via Learnable Agent Guidance and Alignment” got accepted to [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024).
 - **[Nov. 2023]** Our paper, “Compressing Image-to-Image Translation GANs Using Local Density Structures on Their Learned Manifold” got accepted to [AAAI 2024](https://aaai.org/aaai-conference/).
 - **[May. 2023]** I started my internship as a research scientist intern at [Adobe Research](https://research.adobe.com/).
 - **[Nov. 2022]** Our paper, “EffConv: Efficient Learning of Kernel Sizes for Convolution Layers of CNNs” got accepted to [AAAI 2023](https://aaai-23.aaai.org/).
@@ -35,5 +36,5 @@ News
 
 Professional Services
 ------
-Conference Reviewer: KDD 2020, CIKM 2021, ICLR 2023, CVPR 2023, ICCV 2023, AAAI 2023
-Journal Reviewer: TNNLS 2023, American Journal of Human Genetics (AJHC) 2020.
+Conference Reviewer: KDD 2020, CIKM 2021, ICLR 2023, CVPR 2023, ICCV 2023, AAAI 2023, MICCAI 2024, ECCV 2024.
+Journal Reviewer: TNNLS 2023, American Journal of Human Genetics (AJHG) 2020.
