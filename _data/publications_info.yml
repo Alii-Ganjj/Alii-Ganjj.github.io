@@ -15,14 +15,14 @@ main:
   - title: EffConv Efficient Learning of Kernel Sizes for Convolution Layers of CNNs
     authors: <strong>Alireza Ganjdanesh</strong>, Shangqian Gao, Heng Huang
     conference: The Thirty-Seventh AAAI Conference on Artificial Intelligence, <strong>AAAI 2023</strong>.
-    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/25923/25695
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/25923
     code: https://github.com/Alii-Ganjj/EffConv
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:wGG65B3sJBQJ:scholar.google.com/&output=citation&scisdr=ClH5xZ29EPPV99bZzTs:AFWwaeYAAAAAZX3f1TurxL1ySNyYQKBaWHcmm4o&scisig=AFWwaeYAAAAAZX3f1XpPkJiNXD55hYaAjiqQitM&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
 
   - title: Interpretations Steered Network Pruning via Amortized Inferred Saliency Maps
     authors: <strong>Alireza Ganjdanesh</strong>, Shangqian Gao, Heng Huang
     conference: European Conference on Computer Vision <strong>ECCV 2022</strong>.
-    pdf: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136810274.pdf
+    pdf: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7153_ECCV_2022_paper.php
     code: https://github.com/Alii-Ganjj/InterpretationsSteeredPruning
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Jq9AhMP9G-IJ:scholar.google.com/&output=citation&scisdr=ClH5xZ29EPPV99bZve4:AFWwaeYAAAAAZX3fpe4taDW7NB_z66N4212KDA8&scisig=AFWwaeYAAAAAZX3fpQk3loRCf3MmnQYgLliJx4g&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
 

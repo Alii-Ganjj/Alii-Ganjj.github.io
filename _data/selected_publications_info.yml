@@ -22,6 +22,6 @@ main:
   - title: Interpretations Steered Network Pruning via Amortized Inferred Saliency Maps
     authors: <strong>Alireza Ganjdanesh</strong>, Shangqian Gao, Heng Huang
     conference: European Conference on Computer Vision <strong>ECCV 2022</strong>.
-    pdf: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136810274.pdf
+    pdf: https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/7153_ECCV_2022_paper.php
     code: https://github.com/Alii-Ganjj/InterpretationsSteeredPruning
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Jq9AhMP9G-IJ:scholar.google.com/&output=citation&scisdr=ClH8_q0YELiV1akPs8A:AFWwaeYAAAAAZgcJq8AxulVuwC79246fQMifpc4&scisig=AFWwaeYAAAAAZgcJqwZ-bdClh75E9cb-GboZkJ8&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
