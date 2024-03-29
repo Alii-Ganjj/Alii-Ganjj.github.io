@@ -8,7 +8,7 @@ main:
 
   - title: Compressing Image-to-Image Translation GANs Using Local Density Structures on Their Learned Manifold
     authors: <strong>Alireza Ganjdanesh</strong>, Shangqian Gao, Hirad Alipanah, Heng Huang
-    conference: To Appear in The Thirty-Eighth AAAI Conference on Artificial Intelligence, <strong>AAAI 2024</strong>.
+    conference: The Thirty-Eighth AAAI Conference on Artificial Intelligence, <strong>AAAI 2024</strong>.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/29100
     bibtex: https://drive.google.com/file/d/1wHLdqP1d_qUnurOa47SS80DDNbGfgi7X/view?usp=sharing
 
